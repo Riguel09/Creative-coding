@@ -1,0 +1,49 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#my-container {
+  background-color: bisque;
+  width: 400px;
+  height: 400px;
+
+  position: absolute;
+  left: 200px;
+  top: 300px;
+}
+
+h1{
+  color: blue
+  font-family: "Helvetica";
+  font-size: 48px;
+
+  position: absolute;
+  left: 500px
+}
+
+img{
+  position: absolute;
+  left: 800px;
+  top: 300px;
+}
+
+h2{
+  position: absolute;
+  left: 400px;
+  top: 200px;
+}
+
+body{
+  background-color: rgb(33, 122, 163);
+}
+
+h3{
+  position: absolute;
+  font-size: 22;
+  left: 500px;
+  top: 700px;
+}
